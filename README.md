@@ -1,5 +1,11 @@
 # Disaster_Management_Avalanche
 
+## 🎥 Project Demo
+
+[![ResQX Demo Video](./FRONTEND%20REACT%20+%20TS/public/ss.png)](https://drive.google.com/file/d/1WS4geZlf_WyrpisJ7aYXlBzV3J6UN2vI/view?usp=sharing)
+
+▶️ **[Watch Demo Video on Google Drive](https://drive.google.com/file/d/1WS4geZlf_WyrpisJ7aYXlBzV3J6UN2vI/view?usp=sharing)**
+
 ## Overview
 
 This project uses the following tech stack:
